@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_t8zw8MagEeqGc_K3r1w-7w">
+  <modelElement href="project_SuchSystem2.uml#_txEbAMagEeqGc_K3r1w-7w"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_2emL0MagEeqGc_K3r1w-7w" sourceAnchor="298.0,68.0" targetAnchor="530.0,175.0" target="_2e7jAMagEeqGc_K3r1w-7w" source="_2rEhkMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_x_39wMagEeqGc_K3r1w-7w"/>
+    <bendpoints xmi:id="_42G1wMagEeqGc_K3r1w-7w" sourceX="588" targetY="123"/>
+    <nameVisual xmi:id="_2e0OQMagEeqGc_K3r1w-7w" text="">
+      <visualProperties xmi:id="_42fQQMagEeqGc_K3r1w-7w" position="-445.7491619223476,-8.03301870466646"/>
+    </nameVisual>
+    <sourceRole xmi:id="_2e0OQcagEeqGc_K3r1w-7w" aggregationKind="NONE" name="fach" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x7E9UMagEeqGc_K3r1w-7w"/>
+      <visualProperties xmi:id="_42ZJoMagEeqGc_K3r1w-7w" position="20.267097736448285,-27.374187264279612"/>
+      <visibility xmi:id="_2e0OQsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e0OQ8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_2e0ORMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_x_4k0MagEeqGc_K3r1w-7w"/>
+      <visualProperties xmi:id="_42geYMagEeqGc_K3r1w-7w" position="-338.73397766794085,96.30977161809648"/>
+      <visibility xmi:id="_2e0ORcagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e0ORsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_2e4fsMagEeqGc_K3r1w-7w" sourceAnchor="298.0,38.0" targetAnchor="500.0,175.0" target="_2e7jAMagEeqGc_K3r1w-7w" source="_2rEhkMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_x_7BEMagEeqGc_K3r1w-7w"/>
+    <bendpoints xmi:id="_42JSAMagEeqGc_K3r1w-7w" sourceX="558" targetY="93"/>
+    <nameVisual xmi:id="_2e4fscagEeqGc_K3r1w-7w" text="">
+      <visualProperties xmi:id="_42qPYMagEeqGc_K3r1w-7w" position="-415.7491619223476,-8.03301870466646"/>
+    </nameVisual>
+    <sourceRole xmi:id="_2e4fssagEeqGc_K3r1w-7w" aggregationKind="NONE" name="fach2" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x7HZkMagEeqGc_K3r1w-7w"/>
+      <visualProperties xmi:id="_42kv0MagEeqGc_K3r1w-7w" position="17.267097736448285,-27.374187264279612"/>
+      <visibility xmi:id="_2e4fs8agEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e4ftMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_2e4ftcagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_x_82QMagEeqGc_K3r1w-7w"/>
+      <visualProperties xmi:id="_42q2cMagEeqGc_K3r1w-7w" position="-308.73397766794085,66.30977161809648"/>
+      <visibility xmi:id="_2e4ftsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e4ft8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_2rDTcMagEeqGc_K3r1w-7w" source="_2rEhkMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yAiFEMagEeqGc_K3r1w-7w"/>
+    <stereotypes xmi:id="_2rDTccagEeqGc_K3r1w-7w" name="Reference">
+      <modelElement href="project_SuchSystem2.uml#_yAoywMagEeqGc_K3r1w-7w"/>
+    </stereotypes>
+    <nameVisual xmi:id="_2rDTcsagEeqGc_K3r1w-7w" text=""/>
+    <sourceRole xmi:id="_2rDTc8agEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_yAiFEcagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2rDTdMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2rDTdcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_2rDTdsagEeqGc_K3r1w-7w" aggregationKind="NONE" name="fachlehrerliste" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x6JwQMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2rDTd8agEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_2rDTeMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_2uqBEMagEeqGc_K3r1w-7w" source="_2voRcMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yAqA4MagEeqGc_K3r1w-7w"/>
+    <stereotypes xmi:id="_2vB0gMagEeqGc_K3r1w-7w" name="Reference">
+      <modelElement href="project_SuchSystem2.uml#_yAwHgMagEeqGc_K3r1w-7w"/>
+    </stereotypes>
+    <nameVisual xmi:id="_2u__UMagEeqGc_K3r1w-7w" text=""/>
+    <sourceRole xmi:id="_2vAmYMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_yAqA4cagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vNasMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vMzoMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_2vBNcMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="lehrerliste" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x6cEIMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vOo0MagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vOBwMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_2ur2QMagEeqGc_K3r1w-7w" source="_2voRcMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yAx8sMagEeqGc_K3r1w-7w"/>
+    <stereotypes xmi:id="_2vE30MagEeqGc_K3r1w-7w" name="Reference">
+      <modelElement href="project_SuchSystem2.uml#_yA4DUMagEeqGc_K3r1w-7w"/>
+    </stereotypes>
+    <nameVisual xmi:id="_2vB0gcagEeqGc_K3r1w-7w" text=""/>
+    <sourceRole xmi:id="_2vCbkMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_yAx8scagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vRFEMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vQeAMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_2vDCoMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="schuelerliste" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x6l1IMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vSTMMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vRsIMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_2utEYMagEeqGc_K3r1w-7w" source="_2voRcMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yA4qYMagEeqGc_K3r1w-7w"/>
+    <stereotypes xmi:id="_2vH7IMagEeqGc_K3r1w-7w" name="Reference">
+      <modelElement href="project_SuchSystem2.uml#_yA-xAMagEeqGc_K3r1w-7w"/>
+    </stereotypes>
+    <nameVisual xmi:id="_2vE30cagEeqGc_K3r1w-7w" text=""/>
+    <sourceRole xmi:id="_2vGtAMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_yA4qYcagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vUIYcagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vUIYMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_2vHUEMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="faecherliste" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x6z3kMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vUvccagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vUvcMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_2xLwoMagEeqGc_K3r1w-7w" sourceAnchor="446.0,0.0" targetAnchor="278.0,194.0" superClass="_2yNrYMagEeqGc_K3r1w-7w" subClass="_2e7jAMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_x2cU8MagEeqGc_K3r1w-7w"/>
+    <bendpoints xmi:id="_42BWMMagEeqGc_K3r1w-7w" sourceY="-311" targetX="939" targetY="28"/>
+    <bendpoints xmi:id="_42DycMagEeqGc_K3r1w-7w" sourceX="-939" sourceY="-311" targetY="28"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_2xMXsMagEeqGc_K3r1w-7w" sourceAnchor="256.0,0.0" targetAnchor="278.0,194.0" superClass="_2yNrYMagEeqGc_K3r1w-7w" subClass="_2w3nkMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_x2rlgMagEeqGc_K3r1w-7w"/>
+    <bendpoints xmi:id="_42OxkMagEeqGc_K3r1w-7w" sourceY="-27" targetX="631" targetY="28"/>
+    <bendpoints xmi:id="_42PYoMagEeqGc_K3r1w-7w" sourceX="-631" sourceY="-27" targetY="28"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_2xNl0MagEeqGc_K3r1w-7w" sourceAnchor="0.0,97.0" targetAnchor="157.0,137.0" target="_2zL7wMagEeqGc_K3r1w-7w" source="_2yNrYMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yBNagMagEeqGc_K3r1w-7w"/>
+    <bendpoints xmi:id="_42RN0MagEeqGc_K3r1w-7w" sourceX="-242" targetY="152"/>
+    <stereotypes xmi:id="_2x_B4MagEeqGc_K3r1w-7w" name="Reference">
+      <modelElement href="project_SuchSystem2.uml#_yBThIMagEeqGc_K3r1w-7w"/>
+    </stereotypes>
+    <nameVisual xmi:id="_2x9MsMagEeqGc_K3r1w-7w" text="">
+      <visualProperties xmi:id="_4211kMagEeqGc_K3r1w-7w" position="65.83021736854857,-8.899283836788129"/>
+    </nameVisual>
+    <sourceRole xmi:id="_2x9zwMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_yBNagcagEeqGc_K3r1w-7w"/>
+      <visualProperties xmi:id="_42wWAMagEeqGc_K3r1w-7w" position="-48.193077458258585,-28.417476187905265"/>
+      <visibility xmi:id="_2yFIgMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2yEhcMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_2x-a0MagEeqGc_K3r1w-7w" aggregationKind="NONE" name="klasse" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x70kMMagEeqGc_K3r1w-7w"/>
+      <visualProperties xmi:id="_423DsMagEeqGc_K3r1w-7w" position="-55.139531921980506,123.52868778915712"/>
+      <visibility xmi:id="_2yGWoMagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_2yFvkMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_2xOM4MagEeqGc_K3r1w-7w" sourceAnchor="278.0,0.0" targetAnchor="313.0,55.0" target="_2zL7wMagEeqGc_K3r1w-7w" source="_2yNrYMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yBUIMMagEeqGc_K3r1w-7w"/>
+    <bendpoints xmi:id="_42URIMagEeqGc_K3r1w-7w" sourceY="-137" targetX="364"/>
+    <stereotypes xmi:id="_2yA3EMagEeqGc_K3r1w-7w" name="Reference">
+      <modelElement href="project_SuchSystem2.uml#_yBZnwMagEeqGc_K3r1w-7w"/>
+    </stereotypes>
+    <nameVisual xmi:id="_2x_B4cagEeqGc_K3r1w-7w" text="">
+      <visualProperties xmi:id="_43FGIMagEeqGc_K3r1w-7w" position="-18.600716163211814,-28.669782631451426"/>
+    </nameVisual>
+    <sourceRole xmi:id="_2x_o8MagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_yBUIMcagEeqGc_K3r1w-7w"/>
+      <visualProperties xmi:id="_43A0sMagEeqGc_K3r1w-7w" position="-2.0825238120947347,-62.693077458258585"/>
+      <visibility xmi:id="_2yIL0MagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2yHkwMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_2yAQAMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="klasse2" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x74OkMagEeqGc_K3r1w-7w"/>
+      <visualProperties xmi:id="_43J-oMagEeqGc_K3r1w-7w" position="343.471312210843,-159.13953192198062"/>
+      <visibility xmi:id="_2yIy4cagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_2yIy4MagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_2y62AMagEeqGc_K3r1w-7w" source="_2zL7wMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yA__IMagEeqGc_K3r1w-7w"/>
+    <stereotypes xmi:id="_2zBjscagEeqGc_K3r1w-7w" name="Reference">
+      <modelElement href="project_SuchSystem2.uml#_yBFesMagEeqGc_K3r1w-7w"/>
+    </stereotypes>
+    <nameVisual xmi:id="_2zAVkMagEeqGc_K3r1w-7w" text=""/>
+    <sourceRole xmi:id="_2zA8oMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_yA__IcagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2zEnAMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2zD_8MagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_2zBjsMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="klassenliste" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x7f0EMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2zF1IMagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_2zFOEMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_2ztgMMagEeqGc_K3r1w-7w" sourceAnchor="0.0,68.0" targetAnchor="163.0,80.0" superClass="_2z4fUMagEeqGc_K3r1w-7w" subClass="_2rEhkMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_x0t2oMagEeqGc_K3r1w-7w"/>
+    <bendpoints xmi:id="_42LuQMagEeqGc_K3r1w-7w" sourceX="-829" targetX="-967" targetY="1388"/>
+    <bendpoints xmi:id="_42LuQcagEeqGc_K3r1w-7w" sourceX="-829" sourceY="-1053" targetX="-967" targetY="335"/>
+    <bendpoints xmi:id="_42M8YMagEeqGc_K3r1w-7w" sourceX="138" sourceY="-1053" targetY="335"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_2zuuUMagEeqGc_K3r1w-7w" sourceAnchor="157.0,0.0" targetAnchor="163.0,80.0" superClass="_2z4fUMagEeqGc_K3r1w-7w" subClass="_2zL7wMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_x219kMagEeqGc_K3r1w-7w"/>
+    <bendpoints xmi:id="_42WtYMagEeqGc_K3r1w-7w" sourceY="-30" targetX="-795" targetY="335"/>
+    <bendpoints xmi:id="_42XUcMagEeqGc_K3r1w-7w" sourceX="795" sourceY="-30" targetY="335"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_20Rg4MagEeqGc_K3r1w-7w" targetItem="_20j0yMagEeqGc_K3r1w-7w" sourceItem="_20PEoMagEeqGc_K3r1w-7w"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_20VLQMagEeqGc_K3r1w-7w" targetItem="_20kb0sagEeqGc_K3r1w-7w" sourceItem="_20UkMMagEeqGc_K3r1w-7w"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_20hYgMagEeqGc_K3r1w-7w" source="_20j0wMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yBGFwMagEeqGc_K3r1w-7w"/>
+    <stereotypes xmi:id="_20hYgcagEeqGc_K3r1w-7w" name="Reference">
+      <modelElement href="project_SuchSystem2.uml#_yBMzcMagEeqGc_K3r1w-7w"/>
+    </stereotypes>
+    <nameVisual xmi:id="_20hYgsagEeqGc_K3r1w-7w" text=""/>
+    <sourceRole xmi:id="_20h_kMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_yBGs0MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_20h_kcagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_20h_ksagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_20h_k8agEeqGc_K3r1w-7w" aggregationKind="NONE" name="contentPane" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x7tPcMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_20h_lMagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_20h_lcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_21C88MagEeqGc_K3r1w-7w" source="_22BNUMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yBa14MagEeqGc_K3r1w-7w"/>
+    <stereotypes xmi:id="_21ZiQMagEeqGc_K3r1w-7w" name="Reference">
+      <modelElement href="project_SuchSystem2.uml#_yBjYwMagEeqGc_K3r1w-7w"/>
+    </stereotypes>
+    <nameVisual xmi:id="_21XtEMagEeqGc_K3r1w-7w" text=""/>
+    <sourceRole xmi:id="_21YUIMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_yBa14cagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_21khYMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_21j6UMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_21Y7MMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="lehrerliste" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x8CmoMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_21lvgMagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_21lIcMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_21EyIMagEeqGc_K3r1w-7w" source="_22BNUMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yBkm4MagEeqGc_K3r1w-7w"/>
+    <stereotypes xmi:id="_21clkMagEeqGc_K3r1w-7w" name="Reference">
+      <modelElement href="project_SuchSystem2.uml#_yBqtgMagEeqGc_K3r1w-7w"/>
+    </stereotypes>
+    <nameVisual xmi:id="_21ZiQcagEeqGc_K3r1w-7w" text=""/>
+    <sourceRole xmi:id="_21aJUMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_yBlN8MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_21nkscagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_21nksMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_21bXcMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="schuelerliste" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x8ddYMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_21pZ4MagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_21oy0MagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_21GAQMagEeqGc_K3r1w-7w" source="_22BNUMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yBtw0MagEeqGc_K3r1w-7w"/>
+    <stereotypes xmi:id="_21fo4MagEeqGc_K3r1w-7w" name="Reference">
+      <modelElement href="project_SuchSystem2.uml#_yBzQYMagEeqGc_K3r1w-7w"/>
+    </stereotypes>
+    <nameVisual xmi:id="_21dMoMagEeqGc_K3r1w-7w" text=""/>
+    <sourceRole xmi:id="_21dzsMagEeqGc_K3r1w-7w" aggregationKind="NONE" name="">
+      <modelElement href="project_SuchSystem2.uml#_yBtw0cagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_21r2IMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_21rPEMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_21fB0MagEeqGc_K3r1w-7w" aggregationKind="NONE" name="faecherliste" navigable="true">
+      <modelElement href="project_SuchSystem2.uml#_x8rf0MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_21trUMagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_21tEQMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_20PEoMagEeqGc_K3r1w-7w" sourceConnectionVisual="_20Rg4MagEeqGc_K3r1w-7w" text="Launch the application." item="_20j0yMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yAAgoMagEeqGc_K3r1w-7w"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_20UkMMagEeqGc_K3r1w-7w" sourceConnectionVisual="_20VLQMagEeqGc_K3r1w-7w" text="Create the frame." item="_20kb0sagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_yABHsMagEeqGc_K3r1w-7w"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_2e7jAMagEeqGc_K3r1w-7w" name="Lehrer" associationsIn="_2emL0MagEeqGc_K3r1w-7w _2e4fsMagEeqGc_K3r1w-7w" generalizations="_2xLwoMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_xgaakMagEeqGc_K3r1w-7w"/>
+    <visualProperties xmi:id="_2e7jAcagEeqGc_K3r1w-7w" position="30.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_2e7jAsagEeqGc_K3r1w-7w" label="+"/>
+    <attributes xmi:id="_2e7jA8agEeqGc_K3r1w-7w" name="kuerzel">
+      <modelElement href="project_SuchSystem2.uml#_x7ChEMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2e7jBMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e7jBcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2e8KEMagEeqGc_K3r1w-7w" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_2e8KEcagEeqGc_K3r1w-7w" name="fach">
+      <modelElement href="project_SuchSystem2.uml#_x7E9UMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2e8KEsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e8KE8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2e8KFMagEeqGc_K3r1w-7w" name="Fach">
+        <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_2e8KFcagEeqGc_K3r1w-7w" name="fach2">
+      <modelElement href="project_SuchSystem2.uml#_x7HZkMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2e8KFsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e8KF8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2e8KGMagEeqGc_K3r1w-7w" name="Fach">
+        <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_2e8KGcagEeqGc_K3r1w-7w" name="mehrerefaecher">
+      <modelElement href="project_SuchSystem2.uml#_x7J10MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2e8KGsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e8KG8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2e8KHMagEeqGc_K3r1w-7w" name="boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_2e8KHcagEeqGc_K3r1w-7w" name="mehrereklassen">
+      <modelElement href="project_SuchSystem2.uml#_x7M5IMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2e8KHsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e8KH8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2e8KIMagEeqGc_K3r1w-7w" name="boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_2e8xIMagEeqGc_K3r1w-7w" name="Lehrer">
+      <modelElement href="project_SuchSystem2.uml#_x1ddgMagEeqGc_K3r1w-7w"/>
+      <keywords xmi:id="_2e8xIcagEeqGc_K3r1w-7w" keyword="create"/>
+      <visibility xmi:id="_2e8xIsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e8xI8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2e8xJMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x1nOgMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2e8xJcagEeqGc_K3r1w-7w" name="Lehrer">
+          <modelElement href="project_SuchSystem2.uml#_xgaakMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2e8xJsagEeqGc_K3r1w-7w" name="name">
+        <modelElement href="project_SuchSystem2.uml#_x1eEkMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e8xJ8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e8xKMagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e9YMMagEeqGc_K3r1w-7w" name="nachname">
+        <modelElement href="project_SuchSystem2.uml#_x1gg0MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e9YMcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e9YMsagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e9YM8agEeqGc_K3r1w-7w" name="klasse">
+        <modelElement href="project_SuchSystem2.uml#_x1hH4MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e9YNMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e9YNcagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e9YNsagEeqGc_K3r1w-7w" name="kuerzel">
+        <modelElement href="project_SuchSystem2.uml#_x1hu8MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e9YN8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e9YOMagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e9YOcagEeqGc_K3r1w-7w" name="fach">
+        <modelElement href="project_SuchSystem2.uml#_x1i9EMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e9YOsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e9YO8agEeqGc_K3r1w-7w" name="Fach">
+          <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e9YPMagEeqGc_K3r1w-7w" name="fach2">
+        <modelElement href="project_SuchSystem2.uml#_x1jkIMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e9YPcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e9YPsagEeqGc_K3r1w-7w" name="Fach">
+          <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e9YP8agEeqGc_K3r1w-7w" name="mehrerefaecher">
+        <modelElement href="project_SuchSystem2.uml#_x1kyQMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e9YQMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e9YQcagEeqGc_K3r1w-7w" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e9YQsagEeqGc_K3r1w-7w" name="mehrereklassen">
+        <modelElement href="project_SuchSystem2.uml#_x1lZUMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e9YQ8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e9YRMagEeqGc_K3r1w-7w" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2e9_QMagEeqGc_K3r1w-7w" name="Lehrer">
+      <modelElement href="project_SuchSystem2.uml#_x1sHAMagEeqGc_K3r1w-7w"/>
+      <keywords xmi:id="_2e9_QcagEeqGc_K3r1w-7w" keyword="create"/>
+      <visibility xmi:id="_2e9_QsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e9_Q8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2e9_RMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x1y0scagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2e9_RcagEeqGc_K3r1w-7w" name="Lehrer">
+          <modelElement href="project_SuchSystem2.uml#_xgaakMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2e9_RsagEeqGc_K3r1w-7w" name="name">
+        <modelElement href="project_SuchSystem2.uml#_x1suEMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e9_R8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e9_SMagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e9_ScagEeqGc_K3r1w-7w" name="nachname">
+        <modelElement href="project_SuchSystem2.uml#_x1tVIMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e9_SsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e9_S8agEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e9_TMagEeqGc_K3r1w-7w" name="klasse">
+        <modelElement href="project_SuchSystem2.uml#_x1t8MMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e9_TcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e9_TsagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e9_T8agEeqGc_K3r1w-7w" name="kuerzel">
+        <modelElement href="project_SuchSystem2.uml#_x1ujQMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e9_UMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e9_UcagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e9_UsagEeqGc_K3r1w-7w" name="fach">
+        <modelElement href="project_SuchSystem2.uml#_x1vxYMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e-mUMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e-mUcagEeqGc_K3r1w-7w" name="Fach">
+          <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e-mUsagEeqGc_K3r1w-7w" name="mehrerefaecher">
+        <modelElement href="project_SuchSystem2.uml#_x1wYcMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e-mU8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e-mVMagEeqGc_K3r1w-7w" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e-mVcagEeqGc_K3r1w-7w" name="mehrereklassen">
+        <modelElement href="project_SuchSystem2.uml#_x1w_gMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e-mVsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e-mV8agEeqGc_K3r1w-7w" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2e-mWMagEeqGc_K3r1w-7w" name="Lehrer">
+      <modelElement href="project_SuchSystem2.uml#_x12fEMagEeqGc_K3r1w-7w"/>
+      <keywords xmi:id="_2e-mWcagEeqGc_K3r1w-7w" keyword="create"/>
+      <visibility xmi:id="_2e-mWsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e-mW8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2e-mXMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x2AQEMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2e-mXcagEeqGc_K3r1w-7w" name="Lehrer">
+          <modelElement href="project_SuchSystem2.uml#_xgaakMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2e-mXsagEeqGc_K3r1w-7w" name="name">
+        <modelElement href="project_SuchSystem2.uml#_x13tMMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e-mX8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e-mYMagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e-mYcagEeqGc_K3r1w-7w" name="nachname">
+        <modelElement href="project_SuchSystem2.uml#_x14UQMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e_NYMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e_NYcagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e_NYsagEeqGc_K3r1w-7w" name="klasse">
+        <modelElement href="project_SuchSystem2.uml#_x147UMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e_NY8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e_NZMagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e_NZcagEeqGc_K3r1w-7w" name="klasse2">
+        <modelElement href="project_SuchSystem2.uml#_x16JcMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e_NZsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e_NZ8agEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e_NaMagEeqGc_K3r1w-7w" name="kuerzel">
+        <modelElement href="project_SuchSystem2.uml#_x17XkMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e_NacagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e_NasagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e_Na8agEeqGc_K3r1w-7w" name="fach">
+        <modelElement href="project_SuchSystem2.uml#_x17-oMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e_NbMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e_NbcagEeqGc_K3r1w-7w" name="Fach">
+          <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e_NbsagEeqGc_K3r1w-7w" name="fach2">
+        <modelElement href="project_SuchSystem2.uml#_x18lsMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e_Nb8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e_NcMagEeqGc_K3r1w-7w" name="Fach">
+          <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e_NccagEeqGc_K3r1w-7w" name="mehrerefaecher">
+        <modelElement href="project_SuchSystem2.uml#_x19MwMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e_0cMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e_0ccagEeqGc_K3r1w-7w" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e_0csagEeqGc_K3r1w-7w" name="mehrereklassen">
+        <modelElement href="project_SuchSystem2.uml#_x1-a4MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e_0c8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e_0dMagEeqGc_K3r1w-7w" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2e_0dcagEeqGc_K3r1w-7w" name="Lehrer">
+      <modelElement href="project_SuchSystem2.uml#_x2FIkMagEeqGc_K3r1w-7w"/>
+      <keywords xmi:id="_2e_0dsagEeqGc_K3r1w-7w" keyword="create"/>
+      <visibility xmi:id="_2e_0d8agEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2e_0eMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2e_0ecagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x2YDgMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2e_0esagEeqGc_K3r1w-7w" name="Lehrer">
+          <modelElement href="project_SuchSystem2.uml#_xgaakMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2e_0e8agEeqGc_K3r1w-7w" name="name">
+        <modelElement href="project_SuchSystem2.uml#_x2FvoMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e_0fMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e_0fcagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2e_0fsagEeqGc_K3r1w-7w" name="nachname">
+        <modelElement href="project_SuchSystem2.uml#_x2GWsMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2e_0f8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2e_0gMagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2fAbgMagEeqGc_K3r1w-7w" name="klasse">
+        <modelElement href="project_SuchSystem2.uml#_x2Hk0MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2fAbgcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2fAbgsagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2fAbg8agEeqGc_K3r1w-7w" name="klasse2">
+        <modelElement href="project_SuchSystem2.uml#_x2Iy8MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2fAbhMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2fAbhcagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2fAbhsagEeqGc_K3r1w-7w" name="kuerzel">
+        <modelElement href="project_SuchSystem2.uml#_x2JaAMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2fAbh8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2fAbiMagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2fAbicagEeqGc_K3r1w-7w" name="fach">
+        <modelElement href="project_SuchSystem2.uml#_x2KoIMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2fAbisagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2fAbi8agEeqGc_K3r1w-7w" name="Fach">
+          <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2fAbjMagEeqGc_K3r1w-7w" name="mehrerefaecher">
+        <modelElement href="project_SuchSystem2.uml#_x2L2QMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2fAbjcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2fAbjsagEeqGc_K3r1w-7w" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2fAbj8agEeqGc_K3r1w-7w" name="mehrereklassen">
+        <modelElement href="project_SuchSystem2.uml#_x2VnQMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2fAbkMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2fAbkcagEeqGc_K3r1w-7w" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_2rEhkMagEeqGc_K3r1w-7w" name="Fach" associationsOut="_2emL0MagEeqGc_K3r1w-7w _2e4fsMagEeqGc_K3r1w-7w _2rDTcMagEeqGc_K3r1w-7w" generalizations="_2ztgMMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+    <visualProperties xmi:id="_2rEhkcagEeqGc_K3r1w-7w" position="-326.0,260.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_2rEhksagEeqGc_K3r1w-7w" label="+"/>
+    <attributes xmi:id="_2rEhk8agEeqGc_K3r1w-7w" defaultValue="new ArrayList()" name="fachlehrerliste">
+      <modelElement href="project_SuchSystem2.uml#_x6JwQMagEeqGc_K3r1w-7w"/>
+      <stereotypes xmi:id="_2rEhlMagEeqGc_K3r1w-7w" name="Generics">
+        <modelElement href="project_SuchSystem2.uml#_x6RsEMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <stereotypes xmi:id="_2rEhlcagEeqGc_K3r1w-7w" name="LegacyStyledElement">
+        <modelElement href="project_SuchSystem2.uml#_x6YZwMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <visibility xmi:id="_2rEhlsagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_2rEhl8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2rEhmMagEeqGc_K3r1w-7w" name="ArrayList">
+        <modelElement href="project_SuchSystem2.uml#_x0biwMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_2rEhmcagEeqGc_K3r1w-7w" name="Fach">
+      <modelElement href="project_SuchSystem2.uml#_xdZi0MagEeqGc_K3r1w-7w"/>
+      <keywords xmi:id="_2rEhmsagEeqGc_K3r1w-7w" keyword="create"/>
+      <visibility xmi:id="_2rFIoMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2rFIocagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2rFIosagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xdwIIMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2rFIo8agEeqGc_K3r1w-7w" name="Fach">
+          <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2rFIpMagEeqGc_K3r1w-7w" name="bezeichnung">
+        <modelElement href="project_SuchSystem2.uml#_xdbYAMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2rFIpcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2rFIpsagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2rFIp8agEeqGc_K3r1w-7w" name="getFachLehrer">
+      <modelElement href="project_SuchSystem2.uml#_xd3c4MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2rFIqMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2rFIqcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2rFIqsagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x0sogMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2rFIq8agEeqGc_K3r1w-7w" name="Lehrer">
+          <modelElement href="project_SuchSystem2.uml#_xgaakMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2rFIrMagEeqGc_K3r1w-7w" name="pIndex">
+        <modelElement href="project_SuchSystem2.uml#_xd4D8MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2rFIrcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2rFIrsagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2rFIr8agEeqGc_K3r1w-7w" name="getFachLehrerListenLaenge">
+      <modelElement href="project_SuchSystem2.uml#_xeMNAMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2rFIsMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2rFIscagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2rFIssagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xePQUMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2rFIs8agEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_2rFItMagEeqGc_K3r1w-7w" name="addFachLehrer">
+      <modelElement href="project_SuchSystem2.uml#_x0o-IMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2rFItcagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2rFItsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_2rFIt8agEeqGc_K3r1w-7w" name="pLehrer">
+        <modelElement href="project_SuchSystem2.uml#_x0plMMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2rFIuMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2rFIucagEeqGc_K3r1w-7w" name="Lehrer">
+          <modelElement href="project_SuchSystem2.uml#_xgaakMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_2voRcMagEeqGc_K3r1w-7w" name="Gruppen" associationsOut="_2uqBEMagEeqGc_K3r1w-7w _2ur2QMagEeqGc_K3r1w-7w _2utEYMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_xeo48MagEeqGc_K3r1w-7w"/>
+    <visualProperties xmi:id="_2voRccagEeqGc_K3r1w-7w" position="455.0,-607.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_2voRcsagEeqGc_K3r1w-7w" label="+"/>
+    <attributes xmi:id="_2voRc8agEeqGc_K3r1w-7w" defaultValue="new ArrayList&lt;>()" name="lehrerliste">
+      <modelElement href="project_SuchSystem2.uml#_x6cEIMagEeqGc_K3r1w-7w"/>
+      <stereotypes xmi:id="_2voRdMagEeqGc_K3r1w-7w" name="Generics">
+        <modelElement href="project_SuchSystem2.uml#_x6hjsMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <stereotypes xmi:id="_2voRdcagEeqGc_K3r1w-7w" name="LegacyStyledElement">
+        <modelElement href="project_SuchSystem2.uml#_x6j_8MagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <visibility xmi:id="_2voRdsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2voRd8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2voReMagEeqGc_K3r1w-7w" name="ArrayList">
+        <modelElement href="project_SuchSystem2.uml#_x0biwMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_2voRecagEeqGc_K3r1w-7w" defaultValue="new ArrayList&lt;>()" name="schuelerliste">
+      <modelElement href="project_SuchSystem2.uml#_x6l1IMagEeqGc_K3r1w-7w"/>
+      <stereotypes xmi:id="_2voResagEeqGc_K3r1w-7w" name="Generics">
+        <modelElement href="project_SuchSystem2.uml#_x6tJ4MagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <stereotypes xmi:id="_2voRe8agEeqGc_K3r1w-7w" name="LegacyStyledElement">
+        <modelElement href="project_SuchSystem2.uml#_x6yCYMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <visibility xmi:id="_2voRfMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2voRfcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2voRfsagEeqGc_K3r1w-7w" name="ArrayList">
+        <modelElement href="project_SuchSystem2.uml#_x0biwMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_2voRf8agEeqGc_K3r1w-7w" defaultValue="new ArrayList&lt;>()" name="faecherliste">
+      <modelElement href="project_SuchSystem2.uml#_x6z3kMagEeqGc_K3r1w-7w"/>
+      <stereotypes xmi:id="_2voRgMagEeqGc_K3r1w-7w" name="Generics">
+        <modelElement href="project_SuchSystem2.uml#_x66lQMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <stereotypes xmi:id="_2voRgcagEeqGc_K3r1w-7w" name="LegacyStyledElement">
+        <modelElement href="project_SuchSystem2.uml#_x69okMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <visibility xmi:id="_2voRgsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2voRg8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2voRhMagEeqGc_K3r1w-7w" name="ArrayList">
+        <modelElement href="project_SuchSystem2.uml#_x0biwMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_2voRhcagEeqGc_K3r1w-7w" name="getLehrer">
+      <modelElement href="project_SuchSystem2.uml#_xe5XoMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2voRhsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2voRh8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2voRiMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x05c0MagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2voRicagEeqGc_K3r1w-7w" name="Lehrer">
+          <modelElement href="project_SuchSystem2.uml#_xgaakMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2voRisagEeqGc_K3r1w-7w" name="pIndex">
+        <modelElement href="project_SuchSystem2.uml#_xe6lwMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2voRi8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2voRjMagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2voRjcagEeqGc_K3r1w-7w" name="getLehrereListenLaenge">
+      <modelElement href="project_SuchSystem2.uml#_xfAFUMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2voRjsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2voRj8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2voRkMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xfBTcMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2voRkcagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_2vo4gMagEeqGc_K3r1w-7w" name="getSchueler">
+      <modelElement href="project_SuchSystem2.uml#_xfJ2UMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vo4gcagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vo4gsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2vo4g8agEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x0-8YMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2vo4hMagEeqGc_K3r1w-7w" name="Schueler">
+          <modelElement href="project_SuchSystem2.uml#_xk55AMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2vo4hcagEeqGc_K3r1w-7w" name="pIndex">
+        <modelElement href="project_SuchSystem2.uml#_xfLEcMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2vo4hsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2vo4h8agEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2vo4iMagEeqGc_K3r1w-7w" name="getSchuelerListenLaenge">
+      <modelElement href="project_SuchSystem2.uml#_xfPV4MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vo4icagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vo4isagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2vo4i8agEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xfRyIMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2vo4jMagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_2vo4jcagEeqGc_K3r1w-7w" name="getFaecher">
+      <modelElement href="project_SuchSystem2.uml#_xfX4wMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vo4jsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vo4j8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2vo4kMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x1D04MagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2vo4kcagEeqGc_K3r1w-7w" name="Fach">
+          <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2vo4ksagEeqGc_K3r1w-7w" name="pIndex">
+        <modelElement href="project_SuchSystem2.uml#_xfYf0MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2vo4k8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2vo4lMagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2vo4lcagEeqGc_K3r1w-7w" name="getFaecherListenLaenge">
+      <modelElement href="project_SuchSystem2.uml#_xfd_YMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vo4lsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vo4l8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2vo4mMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xfgboMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2vo4mcagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_2vo4msagEeqGc_K3r1w-7w" name="addLehrer">
+      <modelElement href="project_SuchSystem2.uml#_x01ycMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vo4m8agEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vo4nMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_2vo4ncagEeqGc_K3r1w-7w" name="pLehrer">
+        <modelElement href="project_SuchSystem2.uml#_x02ZgMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2vo4nsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2vo4n8agEeqGc_K3r1w-7w" name="Lehrer">
+          <modelElement href="project_SuchSystem2.uml#_xgaakMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2vo4oMagEeqGc_K3r1w-7w" name="addSchueler">
+      <modelElement href="project_SuchSystem2.uml#_x06q8MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vo4ocagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vo4osagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_2vo4o8agEeqGc_K3r1w-7w" name="pSchueler">
+        <modelElement href="project_SuchSystem2.uml#_x075EMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2vo4pMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2vpfkMagEeqGc_K3r1w-7w" name="Schueler">
+          <modelElement href="project_SuchSystem2.uml#_xk55AMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2vpfkcagEeqGc_K3r1w-7w" name="addFach">
+      <modelElement href="project_SuchSystem2.uml#_x1AKgMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2vpfksagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2vpfk8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_2vpflMagEeqGc_K3r1w-7w" name="pFach">
+        <modelElement href="project_SuchSystem2.uml#_x1AxkMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2vpflcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2vpflsagEeqGc_K3r1w-7w" name="Fach">
+          <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_2w3nkMagEeqGc_K3r1w-7w" name="Schueler" generalizations="_2xMXsMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_xk55AMagEeqGc_K3r1w-7w"/>
+    <visualProperties xmi:id="_2w3nkcagEeqGc_K3r1w-7w" position="-88.0,-254.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_2w3nksagEeqGc_K3r1w-7w" label="+"/>
+    <attributes xmi:id="_2w3nk8agEeqGc_K3r1w-7w" name="alter">
+      <modelElement href="project_SuchSystem2.uml#_x7Tm0MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2w3nlMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2w3nlcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2w3nlsagEeqGc_K3r1w-7w" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_2w3nl8agEeqGc_K3r1w-7w" name="Schueler">
+      <modelElement href="project_SuchSystem2.uml#_x2k30MagEeqGc_K3r1w-7w"/>
+      <keywords xmi:id="_2w3nmMagEeqGc_K3r1w-7w" keyword="create"/>
+      <visibility xmi:id="_2w3nmcagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2w3nmsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2w3nm8agEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x2pJQcagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2w3nnMagEeqGc_K3r1w-7w" name="Schueler">
+          <modelElement href="project_SuchSystem2.uml#_xk55AMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2w3nncagEeqGc_K3r1w-7w" name="name">
+        <modelElement href="project_SuchSystem2.uml#_x2le4MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2w3nnsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2w3nn8agEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2w3noMagEeqGc_K3r1w-7w" name="nachname">
+        <modelElement href="project_SuchSystem2.uml#_x2mF8MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2w3nocagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2w3nosagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2w4OoMagEeqGc_K3r1w-7w" name="alter">
+        <modelElement href="project_SuchSystem2.uml#_x2mtAMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2w4OocagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2w4OosagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2w4Oo8agEeqGc_K3r1w-7w" name="klasse">
+        <modelElement href="project_SuchSystem2.uml#_x2nUEMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2w4OpMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2w4OpcagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_2yNrYMagEeqGc_K3r1w-7w" name="Person" abstractClass="true" associationsOut="_2xNl0MagEeqGc_K3r1w-7w _2xOM4MagEeqGc_K3r1w-7w" subclassedBy="_2xLwoMagEeqGc_K3r1w-7w _2xMXsMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_xmgbgMagEeqGc_K3r1w-7w"/>
+    <visualProperties xmi:id="_2yNrYcagEeqGc_K3r1w-7w" position="-741.0,-503.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_2yNrYsagEeqGc_K3r1w-7w" label="+"/>
+    <attributes xmi:id="_2yNrY8agEeqGc_K3r1w-7w" name="name">
+      <modelElement href="project_SuchSystem2.uml#_x7xg4MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2yNrZMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2yNrZcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2yNrZsagEeqGc_K3r1w-7w" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_2yNrZ8agEeqGc_K3r1w-7w" name="nachname">
+      <modelElement href="project_SuchSystem2.uml#_x7zWEMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2yNraMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2yNracagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2yNrasagEeqGc_K3r1w-7w" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_2yNra8agEeqGc_K3r1w-7w" name="klasse">
+      <modelElement href="project_SuchSystem2.uml#_x70kMMagEeqGc_K3r1w-7w"/>
+      <stereotypes xmi:id="_2yNrbMagEeqGc_K3r1w-7w" name="LegacyStyledElement">
+        <modelElement href="project_SuchSystem2.uml#_x73ngMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <visibility xmi:id="_2yNrbcagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_2yNrbsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2yNrb8agEeqGc_K3r1w-7w" name="Schulklasse">
+        <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_2yNrcMagEeqGc_K3r1w-7w" name="klasse2">
+      <modelElement href="project_SuchSystem2.uml#_x74OkMagEeqGc_K3r1w-7w"/>
+      <stereotypes xmi:id="_2yNrccagEeqGc_K3r1w-7w" name="LegacyStyledElement">
+        <modelElement href="project_SuchSystem2.uml#_x76q0MagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <visibility xmi:id="_2yNrcsagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_2yNrc8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2yNrdMagEeqGc_K3r1w-7w" name="Schulklasse">
+        <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_2yNrdcagEeqGc_K3r1w-7w" name="getKlasse_1">
+      <modelElement href="project_SuchSystem2.uml#_xmvFAMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2yNrdsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2yNrd8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2yNreMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x4jNwMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2yNrecagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_2yNresagEeqGc_K3r1w-7w" name="getKlasse_2">
+      <modelElement href="project_SuchSystem2.uml#_xmz9gMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2yNre8agEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2yNrfMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2yOScMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x4oGQMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2yOSccagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_2yOScsagEeqGc_K3r1w-7w" name="Person">
+      <modelElement href="project_SuchSystem2.uml#_x4Q54MagEeqGc_K3r1w-7w"/>
+      <keywords xmi:id="_2yOSc8agEeqGc_K3r1w-7w" keyword="create"/>
+      <visibility xmi:id="_2yOSdMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2yOSdcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2yOSdsagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x4UkQcagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2yOSd8agEeqGc_K3r1w-7w" name="Person">
+          <modelElement href="project_SuchSystem2.uml#_xmgbgMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2yOSeMagEeqGc_K3r1w-7w" name="name">
+        <modelElement href="project_SuchSystem2.uml#_x4Rg8MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2yOSecagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2yOSesagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2yOSe8agEeqGc_K3r1w-7w" name="nachname">
+        <modelElement href="project_SuchSystem2.uml#_x4SvEMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2yOSfMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2yOSfcagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2yOSfsagEeqGc_K3r1w-7w" name="klasse">
+        <modelElement href="project_SuchSystem2.uml#_x4TWIMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2yOSf8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2yOSgMagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2yOSgcagEeqGc_K3r1w-7w" name="Person">
+      <modelElement href="project_SuchSystem2.uml#_x4YOoMagEeqGc_K3r1w-7w"/>
+      <keywords xmi:id="_2yOSgsagEeqGc_K3r1w-7w" keyword="create"/>
+      <visibility xmi:id="_2yOSg8agEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2yOShMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2yOShcagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x4duMcagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2yOShsagEeqGc_K3r1w-7w" name="Person">
+          <modelElement href="project_SuchSystem2.uml#_xmgbgMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2yOSh8agEeqGc_K3r1w-7w" name="name">
+        <modelElement href="project_SuchSystem2.uml#_x4Y1sMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2yOSiMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2yOSicagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2yOSisagEeqGc_K3r1w-7w" name="nachname">
+        <modelElement href="project_SuchSystem2.uml#_x4aq4MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2yOSi8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2yOSjMagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2yOSjcagEeqGc_K3r1w-7w" name="klasse">
+        <modelElement href="project_SuchSystem2.uml#_x4b5AMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2yOSjsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2yOSj8agEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_2yOSkMagEeqGc_K3r1w-7w" name="klasse2">
+        <modelElement href="project_SuchSystem2.uml#_x4cgEMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2yOSkcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2yOSksagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2yOSk8agEeqGc_K3r1w-7w" name="setKlasse_1">
+      <modelElement href="project_SuchSystem2.uml#_x4gxgMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2yOSlMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2yOSlcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_2yOSlsagEeqGc_K3r1w-7w" name="pKlasse">
+        <modelElement href="project_SuchSystem2.uml#_x4hYkMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2yOSl8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2yOSmMagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2yOSmcagEeqGc_K3r1w-7w" name="setKlasse_2">
+      <modelElement href="project_SuchSystem2.uml#_x4lC8MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2yOSmsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2yOSm8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_2yOSnMagEeqGc_K3r1w-7w" name="pKlasse2">
+        <modelElement href="project_SuchSystem2.uml#_x4lqAMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2yOSncagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2yOSnsagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_2zL7wMagEeqGc_K3r1w-7w" name="Schulklasse" associationsIn="_2xNl0MagEeqGc_K3r1w-7w _2xOM4MagEeqGc_K3r1w-7w" associationsOut="_2y62AMagEeqGc_K3r1w-7w" generalizations="_2zuuUMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+    <visualProperties xmi:id="_2zL7wcagEeqGc_K3r1w-7w" position="-1140.0,-695.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_2zL7wsagEeqGc_K3r1w-7w" label="+"/>
+    <attributes xmi:id="_2zL7w8agEeqGc_K3r1w-7w" defaultValue="new ArrayList()" name="klassenliste">
+      <modelElement href="project_SuchSystem2.uml#_x7f0EMagEeqGc_K3r1w-7w"/>
+      <stereotypes xmi:id="_2zL7xMagEeqGc_K3r1w-7w" name="Generics">
+        <modelElement href="project_SuchSystem2.uml#_x7oW8MagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <stereotypes xmi:id="_2zL7xcagEeqGc_K3r1w-7w" name="LegacyStyledElement">
+        <modelElement href="project_SuchSystem2.uml#_x7raQMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <visibility xmi:id="_2zL7xsagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_2zL7x8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2zL7yMagEeqGc_K3r1w-7w" name="ArrayList">
+        <modelElement href="project_SuchSystem2.uml#_x0biwMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_2zL7ycagEeqGc_K3r1w-7w" name="Schulklasse">
+      <modelElement href="project_SuchSystem2.uml#_xlP3QMagEeqGc_K3r1w-7w"/>
+      <keywords xmi:id="_2zMi0MagEeqGc_K3r1w-7w" keyword="create"/>
+      <visibility xmi:id="_2zMi0cagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2zMi0sagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2zMi08agEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xlS6kcagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2zMi1MagEeqGc_K3r1w-7w" name="Schulklasse">
+          <modelElement href="project_SuchSystem2.uml#_xlJwoMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2zMi1cagEeqGc_K3r1w-7w" name="bezeichnung">
+        <modelElement href="project_SuchSystem2.uml#_xlRFYMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2zMi1sagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2zMi18agEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2zMi2MagEeqGc_K3r1w-7w" name="getSchueler">
+      <modelElement href="project_SuchSystem2.uml#_xlXzEMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2zMi2cagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2zMi2sagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2zMi28agEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x20vcMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2zMi3MagEeqGc_K3r1w-7w" name="Schueler">
+          <modelElement href="project_SuchSystem2.uml#_xk55AMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2zMi3cagEeqGc_K3r1w-7w" name="index">
+        <modelElement href="project_SuchSystem2.uml#_xlYaIMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2zMi3sagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2zMi38agEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_2zMi4MagEeqGc_K3r1w-7w" name="getKlassenlistenLaenge">
+      <modelElement href="project_SuchSystem2.uml#_xlcEgMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2zMi4cagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2zMi4sagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2zMi48agEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xld5sMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2zMi5MagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_2zMi5cagEeqGc_K3r1w-7w" name="addSchuler">
+      <modelElement href="project_SuchSystem2.uml#_x2vP4MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2zMi5sagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2zMi58agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_2zMi6MagEeqGc_K3r1w-7w" name="pSchueler">
+        <modelElement href="project_SuchSystem2.uml#_x2v28MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2zMi6cagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2zMi6sagEeqGc_K3r1w-7w" name="Schueler">
+          <modelElement href="project_SuchSystem2.uml#_xk55AMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_2z4fUMagEeqGc_K3r1w-7w" name="Gruppierung" abstractClass="true" subclassedBy="_2ztgMMagEeqGc_K3r1w-7w _2zuuUMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_xgLKAMagEeqGc_K3r1w-7w"/>
+    <visualProperties xmi:id="_2z4fUcagEeqGc_K3r1w-7w" position="-351.0,-1140.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_2z4fUsagEeqGc_K3r1w-7w" label="+"/>
+    <attributes xmi:id="_2z5GYMagEeqGc_K3r1w-7w" name="bezeichnung">
+      <modelElement href="project_SuchSystem2.uml#_x7AE0MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_2z5GYcagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2z5GYsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_2z5GY8agEeqGc_K3r1w-7w" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_2z5GZMagEeqGc_K3r1w-7w" name="Gruppierung">
+      <modelElement href="project_SuchSystem2.uml#_xgSewMagEeqGc_K3r1w-7w"/>
+      <keywords xmi:id="_2z5GZcagEeqGc_K3r1w-7w" keyword="create"/>
+      <visibility xmi:id="_2z5GZsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_2z5GZ8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_2z5GaMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xgViEcagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_2z5GacagEeqGc_K3r1w-7w" name="Gruppierung">
+          <modelElement href="project_SuchSystem2.uml#_xgLKAMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_2z5GasagEeqGc_K3r1w-7w" name="bezeichnung">
+        <modelElement href="project_SuchSystem2.uml#_xgTF0MagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_2z5Ga8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_2z5GbMagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_20j0wMagEeqGc_K3r1w-7w" name="Such_System" associationsOut="_20hYgMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_xlrVEMagEeqGc_K3r1w-7w"/>
+    <visualProperties xmi:id="_20j0wcagEeqGc_K3r1w-7w" position="491.0,-279.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_20j0wsagEeqGc_K3r1w-7w" label="+"/>
+    <attributes xmi:id="_20j0w8agEeqGc_K3r1w-7w" name="contentPane">
+      <modelElement href="project_SuchSystem2.uml#_x7tPcMagEeqGc_K3r1w-7w"/>
+      <stereotypes xmi:id="_20j0xMagEeqGc_K3r1w-7w" name="LegacyStyledElement">
+        <modelElement href="project_SuchSystem2.uml#_x7vrsMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <visibility xmi:id="_20j0xcagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_20j0xsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_20j0x8agEeqGc_K3r1w-7w" name="JPanel">
+        <modelElement href="project_SuchSystem2.uml#_x3dBkMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_20j0yMagEeqGc_K3r1w-7w" comments="_20PEoMagEeqGc_K3r1w-7w" targetConnectionVisual="_20Rg4MagEeqGc_K3r1w-7w" name="main" staticOperation="true">
+      <modelElement href="project_SuchSystem2.uml#_xlzQ4MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_20j0ycagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_20j0ysagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_20j0y8agEeqGc_K3r1w-7w" name="args">
+        <modelElement href="project_SuchSystem2.uml#_xl0fAMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_20kb0MagEeqGc_K3r1w-7w" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_20kb0cagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_20kb0sagEeqGc_K3r1w-7w" comments="_20UkMMagEeqGc_K3r1w-7w" targetConnectionVisual="_20VLQMagEeqGc_K3r1w-7w" name="Such_System">
+      <modelElement href="project_SuchSystem2.uml#_xl8a0MagEeqGc_K3r1w-7w"/>
+      <keywords xmi:id="_20kb08agEeqGc_K3r1w-7w" keyword="create"/>
+      <visibility xmi:id="_20kb1MagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_20kb1cagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_20kb1sagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xl-QAcagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_20kb18agEeqGc_K3r1w-7w" name="Such_System">
+          <modelElement href="project_SuchSystem2.uml#_xlrVEMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_22BNUMagEeqGc_K3r1w-7w" name="Testdaten" associationsOut="_21C88MagEeqGc_K3r1w-7w _21EyIMagEeqGc_K3r1w-7w _21GAQMagEeqGc_K3r1w-7w">
+    <modelElement href="project_SuchSystem2.uml#_xnzcAMagEeqGc_K3r1w-7w"/>
+    <visualProperties xmi:id="_22BNUcagEeqGc_K3r1w-7w" position="59.0,-625.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_22BNUsagEeqGc_K3r1w-7w" label="+"/>
+    <attributes xmi:id="_22B0YMagEeqGc_K3r1w-7w" defaultValue="new ArrayList&lt;>()" name="lehrerliste">
+      <modelElement href="project_SuchSystem2.uml#_x8CmoMagEeqGc_K3r1w-7w"/>
+      <stereotypes xmi:id="_22B0YcagEeqGc_K3r1w-7w" name="Generics">
+        <modelElement href="project_SuchSystem2.uml#_x8aaEMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <stereotypes xmi:id="_22B0YsagEeqGc_K3r1w-7w" name="LegacyStyledElement">
+        <modelElement href="project_SuchSystem2.uml#_x8c2UMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <visibility xmi:id="_22B0Y8agEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_22B0ZMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_22B0ZcagEeqGc_K3r1w-7w" name="ArrayList">
+        <modelElement href="project_SuchSystem2.uml#_x0biwMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_22B0ZsagEeqGc_K3r1w-7w" defaultValue="new ArrayList&lt;>()" name="schuelerliste">
+      <modelElement href="project_SuchSystem2.uml#_x8ddYMagEeqGc_K3r1w-7w"/>
+      <stereotypes xmi:id="_22B0Z8agEeqGc_K3r1w-7w" name="Generics">
+        <modelElement href="project_SuchSystem2.uml#_x8ocgMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <stereotypes xmi:id="_22B0aMagEeqGc_K3r1w-7w" name="LegacyStyledElement">
+        <modelElement href="project_SuchSystem2.uml#_x8qRsMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <visibility xmi:id="_22B0acagEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_22B0asagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_22B0a8agEeqGc_K3r1w-7w" name="ArrayList">
+        <modelElement href="project_SuchSystem2.uml#_x0biwMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_22B0bMagEeqGc_K3r1w-7w" defaultValue="new ArrayList&lt;>()" name="faecherliste">
+      <modelElement href="project_SuchSystem2.uml#_x8rf0MagEeqGc_K3r1w-7w"/>
+      <stereotypes xmi:id="_22B0bcagEeqGc_K3r1w-7w" name="Generics">
+        <modelElement href="project_SuchSystem2.uml#_x8xmcMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <stereotypes xmi:id="_22B0bsagEeqGc_K3r1w-7w" name="LegacyStyledElement">
+        <modelElement href="project_SuchSystem2.uml#_x80pwMagEeqGc_K3r1w-7w"/>
+      </stereotypes>
+      <visibility xmi:id="_22B0b8agEeqGc_K3r1w-7w" label="-"/>
+      <cardinality xmi:id="_22B0cMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <type xmi:id="_22CbcMagEeqGc_K3r1w-7w" name="ArrayList">
+        <modelElement href="project_SuchSystem2.uml#_x0biwMagEeqGc_K3r1w-7w"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_22CbccagEeqGc_K3r1w-7w" name="erzeugeTestdaten">
+      <modelElement href="project_SuchSystem2.uml#_xn5ioMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_22CbcsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_22Cbc8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_22DCgMagEeqGc_K3r1w-7w" name="getFaecher">
+      <modelElement href="project_SuchSystem2.uml#_xn9NAMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_22DCgcagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_22DCgsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_22DpkMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x4-rkMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_22DpkcagEeqGc_K3r1w-7w" name="Fach">
+          <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_22DpksagEeqGc_K3r1w-7w" name="pIndex">
+        <modelElement href="project_SuchSystem2.uml#_xn90EMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_22Dpk8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_22DplMagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_22DplcagEeqGc_K3r1w-7w" name="getFaecherListenLaenge">
+      <modelElement href="project_SuchSystem2.uml#_xoBecMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_22DplsagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_22Dpl8agEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_22DpmMagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xoDToMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_22DpmcagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_22DpmsagEeqGc_K3r1w-7w" name="getSchueler">
+      <modelElement href="project_SuchSystem2.uml#_xoG-AMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_22Dpm8agEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_22DpnMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_22DpncagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x5EyMMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_22DpnsagEeqGc_K3r1w-7w" name="Schueler">
+          <modelElement href="project_SuchSystem2.uml#_xk55AMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_22Dpn8agEeqGc_K3r1w-7w" name="pIndex">
+        <modelElement href="project_SuchSystem2.uml#_xoIzMMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_22DpoMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_22DpocagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_22DposagEeqGc_K3r1w-7w" name="getSchuelerListenLaenge">
+      <modelElement href="project_SuchSystem2.uml#_xoL2gMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_22Dpo8agEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_22EQoMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_22EQocagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xoNrsMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_22EQosagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_22EQo8agEeqGc_K3r1w-7w" name="getLehrer">
+      <modelElement href="project_SuchSystem2.uml#_xoQvAMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_22EQpMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_22EQpcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_22EQpsagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_x5KRwMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_22EQp8agEeqGc_K3r1w-7w" name="Lehrer">
+          <modelElement href="project_SuchSystem2.uml#_xgaakMagEeqGc_K3r1w-7w"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_22EQqMagEeqGc_K3r1w-7w" name="pIndex">
+        <modelElement href="project_SuchSystem2.uml#_xoRWEMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_22EQqcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_22EQqsagEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_22EQq8agEeqGc_K3r1w-7w" name="getLehrereListenLaenge">
+      <modelElement href="project_SuchSystem2.uml#_xoVAcMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_22EQrMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_22EQrcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_22EQrsagEeqGc_K3r1w-7w">
+        <modelElement href="project_SuchSystem2.uml#_xoXcsMagEeqGc_K3r1w-7w"/>
+        <type xmi:id="_22EQr8agEeqGc_K3r1w-7w" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_22EQsMagEeqGc_K3r1w-7w" name="addFach">
+      <modelElement href="project_SuchSystem2.uml#_x47BMMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_22EQscagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_22EQssagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_22EQs8agEeqGc_K3r1w-7w" name="pFach">
+        <modelElement href="project_SuchSystem2.uml#_x48PUMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_22EQtMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_22EQtcagEeqGc_K3r1w-7w" name="Fach">
+          <modelElement href="project_SuchSystem2.uml#_xcuNYMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_22EQtsagEeqGc_K3r1w-7w" name="addSchueler">
+      <modelElement href="project_SuchSystem2.uml#_x5Bu4MagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_22EQt8agEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_22EQuMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_22EQucagEeqGc_K3r1w-7w" name="pSchueler">
+        <modelElement href="project_SuchSystem2.uml#_x5Bu4cagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_22EQusagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_22EQu8agEeqGc_K3r1w-7w" name="Schueler">
+          <modelElement href="project_SuchSystem2.uml#_xk55AMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_22EQvMagEeqGc_K3r1w-7w" name="addLehrer">
+      <modelElement href="project_SuchSystem2.uml#_x5GAUMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_22EQvcagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_22EQvsagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_22EQv8agEeqGc_K3r1w-7w" name="pLehrer">
+        <modelElement href="project_SuchSystem2.uml#_x5GnYMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_22EQwMagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+        <type xmi:id="_22EQwcagEeqGc_K3r1w-7w" name="Lehrer">
+          <modelElement href="project_SuchSystem2.uml#_xgaakMagEeqGc_K3r1w-7w"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_23cJoMagEeqGc_K3r1w-7w" name="Startklasse">
+    <modelElement href="project_SuchSystem2.uml#_xksdoMagEeqGc_K3r1w-7w"/>
+    <visualProperties xmi:id="_23cJocagEeqGc_K3r1w-7w" position="512.0,-117.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_23cJosagEeqGc_K3r1w-7w" label="+"/>
+    <operations xmi:id="_23cJo8agEeqGc_K3r1w-7w" name="main" staticOperation="true">
+      <modelElement href="project_SuchSystem2.uml#_xkzyYMagEeqGc_K3r1w-7w"/>
+      <visibility xmi:id="_23cJpMagEeqGc_K3r1w-7w" label="+"/>
+      <cardinality xmi:id="_23cJpcagEeqGc_K3r1w-7w" label="1" max="1" min="1"/>
+      <parameters xmi:id="_23cJpsagEeqGc_K3r1w-7w" name="args">
+        <modelElement href="project_SuchSystem2.uml#_xk0ZcMagEeqGc_K3r1w-7w"/>
+        <cardinality xmi:id="_23cJp8agEeqGc_K3r1w-7w" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_23cJqMagEeqGc_K3r1w-7w" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
